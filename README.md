@@ -1,3 +1,3 @@
 # Bank_ruby_project
 
-edit 'cls' according to your system
+edit 'cls' method according to your system
